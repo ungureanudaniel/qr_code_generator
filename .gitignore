@@ -3,7 +3,10 @@
 *~
 __pycache__
 #private files
-logo/bucegi_logo.png
+*.png
+*.svg
+*.jpg
+*.jpeg
 
 #virtual env
 myvenv/
